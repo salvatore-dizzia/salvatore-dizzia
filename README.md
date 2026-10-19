@@ -10,7 +10,7 @@ its theoretical foundations and its connections to physics.
 - **MSc in Mathematics** — September 2023
 - **BSc in Mathematics** — May 2020
 - **Data Engineer** — Since November 2023
-- **Microsoft Certifications** — DP-600 | [DP-700](https://learn.microsoft.com/api/credentials/share/en-us/saldizz/4C6D00ADB11677C7?sharingId=7BD7784CAB2D776F) | DP-750 | DP-800
+- **Microsoft Certifications** — [DP-600](https://learn.microsoft.com/api/credentials/share/en-us/saldizz/CBF59A827388AACF?sharingId=7BD7784CAB2D776F) | [DP-700](https://learn.microsoft.com/api/credentials/share/en-us/saldizz/4C6D00ADB11677C7?sharingId=7BD7784CAB2D776F) | [DP-750](https://learn.microsoft.com/api/credentials/share/en-us/saldizz/4DEBCB203528B10E?sharingId=7BD7784CAB2D776F) | [DP-800](https://learn.microsoft.com/api/credentials/share/en-us/saldizz/6D1962069708C8FD?sharingId=7BD7784CAB2D776F)
 
 ## Mathematical Interests
 
