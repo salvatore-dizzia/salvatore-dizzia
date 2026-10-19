@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi,
 
-<!--
-**salvatore-dizzia/salvatore-dizzia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Salvatore, a mathematician currently working as a Data Engineer.
 
-Here are some ideas to get you started:
+Mathematics is my passion, especially
+its theoretical foundations and its connections to physics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+- **MSc in Mathematics** — September 2023
+- **BSc in Mathematics** — May 2020
+- **Data Engineer** — Since November 2023
+- **Microsoft Certifications** — DP-600 | DP-700 | DP-750 | DP-800
+
+## Mathematical Interests
+
+My main interests include:
+
+- **Differential & Riemannian Geometry**
+- **Stochastic Processes & Stochastic Differential Equations**
+- **Partial Differential Equations**
+- **Mathematical Foundations of Physics**, particularly
+  Quantum Mechanics and General Relativity
+
+I'm particularly fascinated by abstract mathematical structures,
+their theoretical foundations, and their connections to physics
+and other scientific disciplines.
+
+## Purpose of This GitHub
+
+This GitHub profile is my personal learning laboratory.
+
+My goal is to revisit and deepen my mathematical knowledge,
+strengthen my programming and algorithmic skills, and explore
+the connections between mathematics, computer science,
+and modern technologies.
+
+Through small projects and computational experiments,
+I hope to combine mathematical theory with practical
+implementations, exploring topics ranging from differential
+geometry and stochastic processes to algorithms,
+data engineering, and artificial intelligence.
