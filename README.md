@@ -30,13 +30,13 @@ and other scientific disciplines.
 
 This GitHub profile is my personal learning laboratory.
 
-My goal is to revisit and deepen my mathematical knowledge,
-strengthen my programming and algorithmic skills, and explore
-the connections between mathematics, computer science,
+I intent to revisit and deepen my mathematical knowledge,
+strengthen my programming skills, and explore
+the connections between mathematics, physics,
 and modern technologies.
 
-Through small projects and computational experiments,
-I hope to combine mathematical theory with practical
+Through small projects and experiments,
+I would like to combine mathematical theory with practical
 implementations, exploring topics ranging from differential
 geometry and stochastic processes to algorithms,
 data engineering, and artificial intelligence.
